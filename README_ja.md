@@ -10,7 +10,10 @@
 [![Powered By PlatformIO](https://img.shields.io/badge/powered-PlatformIO-brightgreen)](https://platformio.org/)
 [![Build Status](https://travis-ci.com/meganetaaan/m5stack-avatar.svg?branch=master)](https://travis-ci.com/meganetaaan/m5stack-avatar)
 
-![M5Stack-Avatar](docs/image/avatar.gif)
+![M5Stack-Scalable-Avatar](docs/image/scalableface.jpg)
+
+複数解像度に対応したスケーラブルなFaceを追加しました。
+1つのスケッチで複数のM5Stack製品で同じFaceを表示できます(デフォルトのみ)
 
 動画: https://www.youtube.com/watch?v=C1Hj9kfY5qc
 
