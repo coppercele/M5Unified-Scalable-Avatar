@@ -10,7 +10,7 @@ This repository is temporarily frozen at v0.10.0. (Due to the absence of the adm
 [![Powered By PlatformIO](https://img.shields.io/badge/powered-PlatformIO-brightgreen)](https://platformio.org/)
 [![Build Status](https://travis-ci.com/meganetaaan/m5stack-avatar.svg?branch=master)](https://travis-ci.com/meganetaaan/m5stack-avatar)
 
-![M5Stack-Avatar](docs/image/avatar.gif)
+![M5Stack-Scalable-Avatar](docs/image/scalableface.jpg)
 
 Video: https://www.youtube.com/watch?v=C1Hj9kfY5qc
 
